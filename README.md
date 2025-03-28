@@ -2,6 +2,8 @@
 
 This project contains a series of practical SQL queries designed to interact with a relational database schema. It focuses on analyzing data about films, actors, rentals, customers, payments, and more.
 
+![Database Schema](DataBase_Schema.png)
+
 ## Project Contents
 - **Database .sql file**
 - **Database schema**: Relational model provided (`DataBase_Schema.png`).
