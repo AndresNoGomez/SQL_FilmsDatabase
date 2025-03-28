@@ -15,4 +15,4 @@ This project contains a series of practical SQL queries designed to interact wit
   - Subqueries and CTEs (Common Table Expressions)
   - Statistical calculations (average, standard deviation, variance)
  
-
+**Author:** Andrés Nó Gómez.
